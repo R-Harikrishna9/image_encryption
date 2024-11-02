@@ -20,17 +20,17 @@ This project provides a simple way to encrypt and decrypt images using the Ferne
    git clone https://github.com/yourusername/image_encryption.git
    cd image_encryption
    
-2.Install the required libraries:
-```bash
-  pip install -r requirements.txt
+ 2. Install the required libraries:
+     ```bash
+             pip install -r requirements.txt
    
 
 ## Usage
 
 Run the script:
-```bash
+    ```bash
 
- python image_encryption.py
+    python image_encryption.py
 
 Follow the prompts to encrypt or decrypt an image.
 
